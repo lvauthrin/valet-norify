@@ -1,0 +1,5 @@
+{
+  "name": "Valet Connect",
+  "description": "A streamlined tool to generate and send formatted valet parking retrieval requests via SMS.",
+  "requestFramePermissions": []
+}
